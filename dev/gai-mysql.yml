@@ -1,5 +1,4 @@
 spring:
-  profiles: dev
   elasticsearch:
     jest:
       multi-threaded: true
